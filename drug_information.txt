@@ -1,0 +1,29 @@
+Compound	MoA	Compound (MoA)	CAS Number	Class	Target(s)
+4-HC	DNA alkylator	4-HC (DNA alkylator)	CAS 40277-05-2	Cell Cycle	DNA alkylator
+4-HC+Dox	combination	4-HC+Dox (Combination)	NA	Cell Cycle	Combination
+Baicalein	CYP2C9	Baicalein (CYP2C9)	CAS 491-67-8	Metabolism	CYP2C9
+Bromopyruvate	Glycolysis	Bromopyruvate (Glycolysis)	CAS 1113-59-3	Metabolism	Glycolysis
+Cetuximab	EGFR	Cetuximab (EGFR)	CAS 205923-56-4	Signaling_RTK	EGFR
+Chloroquine	Autophagy	Chloroquine (Autophagy)	CAS 50-63-5	Autophagy	Unknown
+Disulfiram	ALDH2	Disulfiram (ALDH2)	CAS 97-77-8	Metabolism	ALDH2
+Doxorubicin	TOP2A	Doxorubicin (TOP2A)	CAS 25316-40-9	Cell Cycle	TOP2A
+FR180304	ERK	FR180304 (ERK)	CAS 865362-74-9	Signaling_growth	"ERK1,ERK2"
+Everolimus	mTOR	Everolimus (mTOR)	CAS 159351-69-6	Signaling_growth	mTOR
+B581	FTase	B581 (FTPase)	CAS 149759-96-6	Regulation	FNTA
+GW5074	RAF1	GW5074 (RAF1)	CAS 220904-83-6	Signaling_growth	RAF1
+Trastuzumab	ERBB2	Trastuzumab (ERBB2)	CAS 180288-69-1	Signaling_RTK	ERBB2
+IKK	IKK2	IKK 16 (IKK2)	CAS 1186195-62-9	Signaling_NFkB	"IKK1,IKK2"
+Imatinib	BCR-ABL	Imatinib (BCR-ABL)	CAS 152459-95-5	Signaling_RTK	BCR-ABL
+Mebendazole	Tubulin	Mebendazole (Tubulin)	CAS 31431-39-7	Cell Cycle	"TUBA1A,TUBB2C"
+Methylglyoxal	Pyruvate	Methylglyoxol (Pyruvate)	CAS 78-98-8	Metabolism	Pyruvate
+MG-132	Proteasome	MG-132 (Proteasome)	CAS 133407-82-6	Proteasome	PTS
+Nelfinavir	Protease	Nelfinavir (Protease)	CAS 159989-65-8	Proteasome	HIV-1 protease
+Nilotinib	BCR-ABL	Nilontinib (BCR-ABL)	CAS 641571-10-0	Signaling_RTK	BCR-ABL
+Olomoucine II	CDK1	Olomoucine II (CDK1)	CAS 500735-47-7	Cell Cycle	CDK1
+PD184352	MEK	PD184352 (MEK)	CAS 212631-79-3	Signaling_growth	MEK
+PS-1145	IKK	PS-1145 (IKK)	CAS 431898-65-6	Signaling_NFkB	IKK
+QNZ	NFKB	QNZ (NFkB)	CAS 545380-34-5	Signaling_NFkB	NFKB
+TCS PIM-11	PIM1	TCS PIM-11 (PIM1)	CAS 491871-58-0	Signaling_growth	PIM1
+Valproate	HDAC	Valproate (HDAC)	CAS 1069-66-5	Regulation	HDAC
+MG-132b	Proteasome	MG-132b (Proteasome)	CAS 133407-82-6	Proteasome	PTS
+MG-115	Proteasome	MG-115 (Proteasome)	CAS 133407-86-0	Proteasome	PTS
